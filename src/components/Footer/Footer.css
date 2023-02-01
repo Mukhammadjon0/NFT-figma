@@ -1,0 +1,39 @@
+.footer-content {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 1330px;
+    margin: 100px auto;
+}
+
+.footer-left {
+    width: 373px;
+}
+
+.footer-left p {
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 189.9%;
+    letter-spacing: 0.02em;
+    margin-top: 33px;
+    color: #232222;
+}
+
+.footer-right span {
+    font-weight: 700;
+    font-size: 20px;
+    letter-spacing: 0.02em;
+    color: #232222;
+}
+.footer-right{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+.footer-right .footer-link {
+    text-decoration: none;
+    font-weight: 400;
+    font-size: 18px;
+    letter-spacing: 0.02em;
+    color: #232222;
+}

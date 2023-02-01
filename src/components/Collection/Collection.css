@@ -1,0 +1,31 @@
+.collection-head {
+    width: 770px;
+    margin: auto;
+    margin-top: 80px;
+    text-align: center;
+}
+
+.collection-head h1 {
+    font-weight: 700;
+    font-size: 48px;
+    letter-spacing: 0.02em;
+    color: #232222;
+}
+
+.collection-head p {
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 163.9%;
+    text-align: center;
+    letter-spacing: 0.02em;
+    margin: 24px 0;
+    color: #232222;
+}
+
+.collection {
+    width: 1330px;
+    margin: 50px auto;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: 10px;
+}

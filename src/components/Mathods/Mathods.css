@@ -1,0 +1,17 @@
+.methods-main .methods {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    width: 1330px;
+    margin: auto;
+    margin-top: 20px;
+}
+
+.methods-main {
+    background: #F4F4F4;
+    padding: 54px 0;
+}
+.methods img{
+    cursor: pointer;
+}
